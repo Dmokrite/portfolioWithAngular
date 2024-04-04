@@ -1,0 +1,5 @@
+.bg-custom-background{
+    background-image: url(../../assets/president.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;    
+}
